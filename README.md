@@ -46,7 +46,7 @@ password2 String
 * `DELETE /api/checklistItem/{CheckListItem_id}`      -- To Delete specific CheckListItem data
 
 ## Documentation
-Refer this Documentation Pdf for more details **link** builded with **Django REST Swagger**
+Refer this Documentation Pdf for more details **https://github.com/shantanu1905/CheckList-Api/blob/master/CheckListApi.pdf** builded with **Django REST Swagger**
 
 # Installation process 
 
